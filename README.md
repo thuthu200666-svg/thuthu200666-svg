@@ -34,9 +34,8 @@
 <div align="center">
   <p>🚀 <i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i></p>
   <p>✨ <i> "Code is my way of expressing creativity."</i> ✨</p>
-  
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=thuthu200666-svg&show_icons=true&theme=dracula" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thuthu200666-svg&theme=radical" />
 </div>
 ---
 
