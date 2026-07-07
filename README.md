@@ -1,4 +1,9 @@
-# 🚀 Hello, I'm Thu Thu Nyein San!
+<div align="center">
+
+# Hello, I'm Thu Thu Nyein San!👋
+
+### Full-Stack Developer | Java • Spring Boot • React • Next.js
+</div>
 
 ### 👨‍💻 About Me
 <p align="center">I'm a passionate full-stack developer who loves building robust and user-friendly web applications. I enjoy solving problems and continuously learning new technologies.</p>
