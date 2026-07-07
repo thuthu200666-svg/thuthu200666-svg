@@ -1,7 +1,7 @@
-# 🚀 Hello, I'm Thu Thu Nyein San
+# 🚀 Hello, I'm Thu Thu Nyein San!
 
 ### 👨‍💻 About Me
-I'm a passionate full-stack developer who loves building robust and user-friendly web applications. I enjoy solving problems and continuously learning new technologies.
+<p align="center">I'm a passionate full-stack developer who loves building robust and user-friendly web applications. I enjoy solving problems and continuously learning new technologies.</p>
 ---
 <div align="center">
 
@@ -28,7 +28,7 @@ I'm a passionate full-stack developer who loves building robust and user-friendl
 
 <div align="center">
   <p>🚀 <i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i></p>
-  <p>✨ <i> "Code is my way of expressing creativity."</i></p>
+  <p>✨ <i> "Code is my way of expressing creativity."</i> ✨</p>
   
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" />
