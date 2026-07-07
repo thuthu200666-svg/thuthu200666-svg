@@ -36,7 +36,7 @@
   <p>✨ <i> "Code is my way of expressing creativity."</i> ✨</p>
   
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=thuthu200666-svg&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thuthu200666-svg&show_icons=true&theme=dracula" />
 </div>
 ---
 
